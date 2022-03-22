@@ -1,10 +1,11 @@
 # Honda Pioneer Oil Change
 
 - [Honda Pioneer Oil Change](#honda-pioneer-oil-change)
+  - [Oil Change Intervals](#oil-change-intervals)
   - [Supplies (OEM except the Oil)](#supplies-oem-except-the-oil)
   - [Tools](#tools)
   - [Torque](#torque)
-  - [Drain The Oil](#drain-the-oil)
+  - [Draining The Oil](#draining-the-oil)
   - [Reinstall the Filter](#reinstall-the-filter)
   - [Rinstall the Oil Drain Bolt](#rinstall-the-oil-drain-bolt)
   - [Reinstall Access Panel](#reinstall-access-panel)
@@ -12,12 +13,18 @@
 
 This HowTo covers an oil change on a Honda Pioneer 2019 700 Delux. It should apply to other years and models, although part numbers may vary. It should also be noted that these steps were performed on a Pioneer that had already been through the initial 25 hour service at the dealer!
 
+## Oil Change Intervals
+
 Oil change intervals are ever X miles or Y hours in optimal conditions. Operating in hostile conditions will require more frequent service (you know who you are :-) ).
+
+| Mileage | Hours | Description |
+| ------- | ----- | ----------- |
+| XXX     | XXX   | XXX        |
 
 ## Supplies (OEM except the Oil)
 
 - Oil:
-  - Oil Type:
+  - Oil Type: XXXX
   - Filter: XXXX
   - Filter O-ring: XXXX
   - Filter bolt O-ring: XXXX
@@ -42,25 +49,39 @@ Additionally, the manual also states that the o-rings and drain plug washer be r
 - Oil filter bolt: 13 foot pounds
 - Oil drain plug bolt: 18 foot pounds
 
- ## Drain The Oil
+## Draining The Oil
 
  **Note**: The oil will shoot out of the drain hole about 1 to 1 1/2 feet once the drain plug is removed. As the oil is drained, this will reduce enough that you'll likely have to move the pan closer to the drain hole.
 
- **Note**: When removing the oil filter, unscrew the bolt but leave it in the filter, removing the full filter/bolt/washer/spring assembly as a single unit. If you don't do this, you will likely have to search for the filter washer / spring.
+ **Note**: When removing the oil filter, unscrew the bolt but leave it in the filter, removing the full `filter/bolt/washer/spring` assembly as a single unit. If you don't do this, you will likely have to search for the filter washer / spring.
 
 The user manual suggests to place the transmission in drive, 4x4 in differential lock and apply the parking break. Basically, all the things that can help prevent the vehicle from rolling while you are working on it!
 
-I chose to jack the Pioneer at the front (place the jack under the brush gaurd, see owners manual), an use jack stands at the frame jack points near the front wheels. This may not be necessary, I'll have to try without next time, but made it easier the first time.
+I chose to jack the Pioneer at the front (place the jack under the brush gaurd, see owners manual), and use jack stands at the frame jack points near the front wheels. This may not be necessary, I'll have to try without next time, but made it easier the first time.
+
+<PHOTO>
 
 First step, remove the seat. You'll access the oil fill cap, dipstick (driver side) and filter (passenger side) under the front seat. Unscrew the fill cap. Proceed to the underside of the passenger side.
 
-The oil drain bolt is located inside an access small panel that is located under the Pioneer, center behind the front bench. There are 4 x `10mm` bolts. Remove the bolts and slide the cover out towards the driver side. (I took this opportunity to clean debre out of the area).
+<PHOTO>
+
+The oil drain bolt is located inside a small access panel that is located under the Pioneer, center behind the front bench. There are 4 x `10mm` bolts. 
+
+<PHOTO>
+
+Remove the bolts and slide the cover out towards the driver side. (I took this opportunity to clean debre out of the area).
 
 The oil drain bolt is the larger bolt, `16mm`. When fully removed, the oil will shoot out more than a foot and will slowly decrease, meaning you'll need to occasionally move the drain pan.
 
+<PHOTO>
+
 While the oil is draining, remove the filter. The filter is located under the dust cover on the front passenger side (beside the battery compartment). As mentioned above, I would recommend leaving the bolt in the filter while removing everything as a unit. I didn't do this the first time, removing the bolt first. The result was both spring and washer ended up in the belly pan, taking a good bit of digging to locate.
 
-The oil filter can be removed by using a 12mm wrench / socket. Once the bolt is compltelely loose, use a flat bladed screw driver to **gently** pry the filter cover away from the crankcase (by gently, I mean it shouldn't require any effort). Once the cover is loose, pull the entire unit out as one and disassemble on your clean worksapce (you'll need to reuse the washer, spring, cover and bolt)
+<PHOTO>
+
+The oil filter can be removed by using a `12mm` wrench / socket. Once the bolt is compltelely loose, use a flat bladed screw driver to **gently** pry the filter cover away from the crankcase (by gently, I mean it shouldn't require any effort). Once the cover is loose, pull the entire unit out as one and disassemble on your clean worksapce (you'll need to reuse the washer, spring, cover and bolt)
+
+<PHOTO>
 
 ## Reinstall the Filter
 
