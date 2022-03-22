@@ -4,7 +4,7 @@
   - [Bad Boy Outlaw XP Zero Turn Mower Oil Change](#bad-boy-outlaw-xp-zero-turn-mower-oil-change)
   - [Honda Pioneer 700 Oil Change](#honda-pioneer-700-oil-change)
 
-A collection of HowTo's for things like oil changes, and????
+A collection of HowTo's for things like oil changes, and???
 
 ## Bad Boy Outlaw XP Zero Turn Mower Oil Change
 
