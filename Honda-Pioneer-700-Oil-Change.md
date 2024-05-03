@@ -15,23 +15,23 @@
 
 This HowTo covers an oil change on a Honda Pioneer 2019 700 Deluxe. It should apply to other years and models, although part numbers may vary. It should also be noted that these steps were performed on a Pioneer that had already been through the initial 25 hour service at the dealer!
 
-Maintenance schedule 1
-![[Pasted image 20240503154312.png]]
+> [!question]- Maintenance schedule 1
+> ![[Pasted image 20240503154312.png]]
 
-Maintenance schedule 2
-![[Pasted image 20240503154335.png]]
+> [!question]- Maintenance schedule 2
+> ![[Pasted image 20240503154335.png]]
 
-Maintenance locations
-![[Pasted image 20240503154408.png]]
+> [!question]- Maintenance locations
+> ![[Pasted image 20240503154408.png]]
 
-Jack points
-![[Pasted image 20240503161123.png]]
+> [!question]- Jack points
+> ![[Pasted image 20240503161123.png]]
 
-Engine oil information
-![[Pasted image 20240503161410.png]]
+> [!question]- Engine oil information
+> ![[Pasted image 20240503161410.png]]
 
-Checking engine oil
-![[Pasted image 20240503161557.png]]
+> [!question]- Checking engine oil
+> ![[Pasted image 20240503161557.png]]
 
 ## Oil Change Intervals
 
