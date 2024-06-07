@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Honda-Pioneer-700-Oil-Change.md",
+                "file": "Stihl MS170 Chainsaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Honda-Pioneer-700-Oil-Change.md",
+                "file": "Stihl MS170 Chainsaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Honda-Pioneer-700-Oil-Change.md"
+                "file": "Stihl MS170 Chainsaw.md"
               }
             }
           },
@@ -191,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91f6804dc13794ee",
+  "active": "648bf280ef549717",
   "lastOpenFiles": [
+    "Honda-Pioneer-700-Oil-Change.md",
     "Stihl MS170 Chainsaw.md",
     "Stihl FS 90R.md",
     "img/2022-03-21-22-18-55.png",
@@ -202,7 +204,6 @@
     "pdf/Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.pdf",
     "pdf/Honda-Pioneer-700-Oil-Change.pdf",
     "index.md",
-    "Honda-Pioneer-700-Oil-Change.md",
     "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.md",
     "attachments/Pasted image 20240503181320.png",
     "attachments/Pasted image 20240503163225.png",
