@@ -42,19 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "f41ba94181724c0b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f41ba94181724c0b",
+  "active": "648bf280ef549717",
   "lastOpenFiles": [
     "Honda-Pioneer-700-Oil-Change.md",
     "Stihl MS170 Chainsaw.md",
