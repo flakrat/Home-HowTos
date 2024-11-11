@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "c2e3be85605efda5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92b08bce9b17f8e2",
+  "active": "c2e3be85605efda5",
   "lastOpenFiles": [
     "Honda-Pioneer-700-Oil-Change.md",
     "Stihl MS170 Chainsaw.md",
