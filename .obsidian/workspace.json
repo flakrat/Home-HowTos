@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Stihl MS170 Chainsaw"
             }
+          },
+          {
+            "id": "2d13d3024f3653c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -216,7 +229,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "648bf280ef549717",
+  "active": "2d13d3024f3653c2",
   "lastOpenFiles": [
     "Honda-Pioneer-700-Oil-Change.md",
     "Stihl MS170 Chainsaw.md",
