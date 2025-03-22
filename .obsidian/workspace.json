@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stihl MS170 Chainsaw.md",
-                "mode": "source",
+                "file": "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Stihl MS170 Chainsaw"
-            }
-          },
-          {
-            "id": "2d13d3024f3653c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,18 +217,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d13d3024f3653c2",
+  "active": "648bf280ef549717",
   "lastOpenFiles": [
     "Honda-Pioneer-700-Oil-Change.md",
+    "index.md",
+    "Stihl FS 90R Trimmer.md",
     "Stihl MS170 Chainsaw.md",
-    "Stihl FS 90R.md",
     "img/2022-03-21-22-18-55.png",
     "img/2022-03-21-22-19-50.png",
     "img/2022-03-21-22-20-51.png",
     "img/2022-03-21-22-21-55.png",
     "pdf/Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.pdf",
     "pdf/Honda-Pioneer-700-Oil-Change.pdf",
-    "index.md",
     "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.md",
     "attachments/Pasted image 20240503181320.png",
     "attachments/Pasted image 20240503163225.png",
