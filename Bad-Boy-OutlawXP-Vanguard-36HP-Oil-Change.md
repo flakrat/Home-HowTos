@@ -31,24 +31,25 @@ Oil change intervals are ever 50 hours or yearly
 
 
 > [!WARNING] 
-> Get an oil filter with flutes. It's extremely difficult to tighten the filter by hand or using a spanner type wrench.Ex: the`Prime Line 7-07112D` filter from Advanced Auto`Parts doesn't have .
+> Get an oil filter with flutes. It's extremely difficult to tighten the filter by hand or using a spanner type wrench.Ex: the`Prime Line 7-07112D` filter from Advanced Auto`Parts doesn't have flute.
 
 - Deck:
-  - Deck belt: 041-0202-00
-  - Hi-Lift Fusion Blade: 038-6080-00
-  - Gator Blade: 038-6081-00
-  - Wave Blade: 038-6090-00
+  - Deck belt: `041-0202-00`
+  - Hi-Lift Fusion Blade: `038-6080-00`
+  - Gator Blade: `038-6081-00`
+  - Wave Blade: `038-6090-00`
 - Pump:
   - Pump belt: 041-8411-00
 - Oil:
-  - Oil Type: 10w30 Full Synthetic (Mobil 1)
-  - Oil Quantity: 2QT
-  - Oil Filter: Bad Boy 063-8018-00 / Briggs & Stratton 492932S
-  - Filter Wrench: 75mm with 14 Flutes
-  - Hydro Filter x 2: Bad Boy 063-8014-00
-  - Hydro Oil: 20w-50 x 2QT / Pump
+  - Oil Type: `10w30` Full Synthetic (Mobil 1)
+  - Oil Quantity: `2QT`
+  - Oil Filter: Bad Boy `063-8018-00` / Briggs & Stratton `492932S`
+  - Oil Drain "plug": `13/16`, support nut is `11/16`
+  - Filter Wrench: `75mm` with `14` Flutes
+  - Hydro Filter x 2: Bad Boy `063-8014-00`
+  - Hydro Oil: `20w-50` x `2QT` / Pump
 - Fuel
-  - Fuel filter: 063-6000-00
+  - Fuel filter: `063-6000-00`
 
 ![Bad Boy part numbers](img/2022-03-21-22-18-55.png)
 
@@ -74,7 +75,7 @@ The oil drain plug is located on the left side of the engine (when facing from t
 
 ![Oil Drain](img/2022-03-21-22-19-50.png)
 
-Use a `21mm` socket/wrench on the drain plug and an `17mm` wrench to counter the torque when loosening the plug. I find it handy to use my Milwaukee 90 degree M12 impact wrench for loosening the drain plug.
+Use a `21mm` / `13/16` socket/wrench on the drain plug and an `17mm` / `11/16` wrench to counter the torque when loosening the plug. I find it handy to use my Milwaukee 90 degree M12 impact wrench for loosening the drain plug.
 
 Remove the drain cap and allow the oil to drain.
 
@@ -91,8 +92,8 @@ Remove the drain cap and allow the oil to drain.
 
 ## Plug & Filter Install
 
-- Install oil drain plug and tighten to 10 ft-lb using 11/16" open end wrench to provide counter torque
-- Fill the filter with oil to the threads, allow 2 mintues or so to soak into the element
+- Install oil drain plug and tighten to 10 ft-lb using 13/16" for the plug and 11/16" open end wrench to provide counter torque
+- Fill the filter with oil to the threads, allow 2 minutes or so to soak into the element
 - Install the filter and hand tighten
 
 ## Fill the Oil
