@@ -104,6 +104,6 @@ Reinstall the fan shroud, close the side(s) and tighten the 14mm nut(s)
 
 ## TODO
 
-- Gorilla tape the parking brake handle: The rubber on the handle is starting to split
+- [x] Gorilla tape the parking brake handle: The rubber on the handle is starting to split
 - Tighten the parking brake: Starts to roll on slight incline
 - Lube the zerks
