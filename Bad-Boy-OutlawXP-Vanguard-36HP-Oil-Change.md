@@ -29,6 +29,10 @@ Oil change intervals are ever 50 hours or yearly
 
 ## Supplies
 
+
+> [!WARNING] 
+> Get an oil filter with flutes. It's extremely difficult to tighten the filter by hand or using a spanner type wrench.Ex: the`Prime Line 7-07112D` filter from Advanced Auto`Parts doesn't have .
+
 - Deck:
   - Deck belt: 041-0202-00
   - Hi-Lift Fusion Blade: 038-6080-00
