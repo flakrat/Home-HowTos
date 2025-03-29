@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "648bf280ef549717",
+  "active": "62aa73dbd94e382f",
   "lastOpenFiles": [
     "Honda-Pioneer-700-Oil-Change.md",
     "index.md",
