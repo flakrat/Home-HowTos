@@ -21,14 +21,14 @@ This HowTo covers an oil change on a 2017 Bad Boy Outlaw XP zero turn mower with
 
 Oil change intervals are ever 50 hours or yearly
 
-| Date     | Hours | Description                                                   |
-| -------- | ----- | ------------------------------------------------------------- |
-| 20220322 | 152.4 | 2qts Mobil 1 10w30 full synthetic / Briggs & Stratton 492932S |
-| 20230805 | 189.1 | 2qts Mobil 1 10w30 full synthetic / Briggs & Stratton 492932S |
-| 20250329 | 219.2 |   2qts Mobil 1 10w30 full synthetic / Briggs & Stratton 492932S<br>(Prime Line 7-07112D from Advanced Auto)                                                            |
+| Date     | Hours | Description                                                                                               |
+| -------- | ----- | --------------------------------------------------------------------------------------------------------- |
+| 20220322 | 152.4 | 2qts Mobil 1 10w30 full synthetic / Briggs & Stratton 492932S                                             |
+| 20230805 | 189.1 | 2qts Mobil 1 10w30 full synthetic / Briggs & Stratton 492932S                                             |
+| 20250329 | 219.2 | 2qts Mobil 1 10w30 full synthetic / Briggs & Stratton 492932S<br>(Prime Line 7-07112D oil filter from Advanced Auto) |
+| 20260307 |       |                                                                                                           |
 
 ## Supplies
-
 
 > [!WARNING] 
 > Get an oil filter with flutes. It's extremely difficult to tighten the filter by hand or using a spanner type wrench.Ex: the`Prime Line 7-07112D` filter from Advanced Auto`Parts doesn't have flute.
