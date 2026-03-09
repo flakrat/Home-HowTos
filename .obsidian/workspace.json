@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -199,14 +199,23 @@
               "icon": "lucide-ghost",
               "title": "git-history-view"
             }
+          },
+          {
+            "id": "1d397b447a8cd963",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
