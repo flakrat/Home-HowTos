@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "16fcea0fb191d3b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "648bf280ef549717",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62aa73dbd94e382f",
+  "active": "16fcea0fb191d3b7",
   "lastOpenFiles": [
     "Honda-Pioneer-700-Oil-Change.md",
     "index.md",
