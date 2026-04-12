@@ -36,29 +36,17 @@
             }
           },
           {
-            "id": "16fcea0fb191d3b7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "648bf280ef549717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change"
+              "title": "index"
             }
           }
         ],
@@ -119,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7e636985ade938c8",
@@ -242,8 +229,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16fcea0fb191d3b7",
+  "active": "648bf280ef549717",
   "lastOpenFiles": [
+    "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.md",
     "Honda-Pioneer-700-Oil-Change.md",
     "index.md",
     "Stihl FS 90R Trimmer.md",
@@ -254,7 +242,6 @@
     "img/2022-03-21-22-21-55.png",
     "pdf/Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.pdf",
     "pdf/Honda-Pioneer-700-Oil-Change.pdf",
-    "Bad-Boy-OutlawXP-Vanguard-36HP-Oil-Change.md",
     "attachments/Pasted image 20240503181320.png",
     "attachments/Pasted image 20240503163225.png",
     "attachments/Pasted image 20240503162842.png",
